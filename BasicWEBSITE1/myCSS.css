@@ -1,12 +1,26 @@
+
+body {
+
+}
+
+
 h1 {
   text-decoration: underline;
   text-align: center;
-color: slateblue;
+  color: slateblue;
   size: 2em;
 }
 
 div {
   text-align: center;
-  background-color: blueviolet;
+  background-color: grey;
   padding: 20em;
+}
+
+ol {
+  background-color: rosybrown;
+}
+
+li {
+  padding: 2em;
 }

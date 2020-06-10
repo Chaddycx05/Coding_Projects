@@ -44,5 +44,5 @@ public class SingletonPatternDemo {
 ... and a myriad of things between.
 
 
-### Formal projects shoule be in there own repos
+### Formal projects should be in their own repo upon "conclusion"
 
