@@ -1,0 +1,12 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+color: slateblue;
+  size: 2em;
+}
+
+div {
+  text-align: center;
+  background-color: blueviolet;
+  padding: 20em;
+}
