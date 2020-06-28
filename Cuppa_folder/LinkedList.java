@@ -66,7 +66,7 @@ public class LinkedList {
 	}
 	
 	// Driver code
-	public static void main(Sting[] args){
+	public static void main(String[] args){
 	
 	/** Create an empty list first! */
 	LinkedList list = new LinkedList();
